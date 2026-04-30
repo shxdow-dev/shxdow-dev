@@ -2,12 +2,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ayesha Rizwan
 ======================================================================================================================================
 
-Full Stach Developer | AI Enthusiast
+Full Stack Developer | AI Enthusiast
 ------------------------------------
 
 I’m a Computer Engineering student passionate about building real-world applications and growing into a Full-Stack Developer.
 
-Currently, I’m developing skills in front-end and back-end technologies, working with HTML, CSS, JavaScript. I’m also exploring databases, APIs, and deployment to understand how complete systems are built end-to-end.
+Currently, I’m developing skills in front-end and back-end technologies, working with HTML, CSS, JavaScript. I’m also exploring databases, APIs and deployment to understand how complete systems are built end-to-end.
 
 Alongside development..
 
